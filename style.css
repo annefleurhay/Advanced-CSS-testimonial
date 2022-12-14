@@ -1,0 +1,52 @@
+body {
+  background-color: #c3cfe2;
+  margin: 10px;
+}
+
+.test {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  background: linear-gradient(white 0%, white 70%, #686de0 70%, #686de0 100%);
+  /* padding */
+  border-radius: 30px;
+  width: 370px;
+  height: 580px;
+  box-shadow: 2px 2px 15px rgb(112, 109, 109);
+  /* Font styling */
+  /* Avatar styling */
+}
+.test p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgb(78, 76, 76);
+  line-height: 2.5rem;
+  padding: 30px 35px 0px 35px;
+}
+.test .pur {
+  text-align: center;
+}
+.test img {
+  height: 110px;
+  border-radius: 50%;
+  border: white solid 6px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.test .name {
+  color: white;
+  text-transform: uppercase;
+  line-height: normal;
+  padding: 0;
+}
+.test .example {
+  color: rgba(192, 189, 189, 0.767);
+  line-height: 0.2rem;
+  padding: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
